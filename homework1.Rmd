@@ -1,6 +1,6 @@
 ---
 title: "Homework #1 -- Pet Names Dataset"
-author: "dalal salman"
+author: "dalal salman "
 date: "`r Sys.Date()`"
 output: github_document
 ---
@@ -63,7 +63,10 @@ Luna    355
 (10 points)
 
 ```{r species-name-top5, eval=TRUE}
-
+seattlepets %>%
+group_by(species) %>%
+count(animal_name, sort = TRUE) %>%
+slice_max(n, n = 5) %>% arrange(species, n)
 ```
 
 `5.  What names are more common for cats than dogs? The ones above the line or the ones below the line?
