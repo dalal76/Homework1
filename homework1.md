@@ -99,4 +99,4 @@ negative? What does this mean in context of the data?
 
 Answer here positive , if dogs names increase the cats names increase
 also and also if dogs names decrease the cats name decrease also in the
-same name of them. (4 points)
+same name of them (4 points)
