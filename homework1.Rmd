@@ -1,11 +1,11 @@
 ---
 title: "Homework #1 -- Pet Names Dataset"
-author: "dalal salman "
+author: "dalal salman"
 date: "`r Sys.Date()`"
 output: github_document
 ---
 
-**Student ID:2201003144
+**Student ID: 2201003144
 
 **Deadline:** 23:59 on Saturday, 13 February 2021
 
