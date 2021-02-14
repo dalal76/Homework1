@@ -88,7 +88,7 @@ slice_max(n, n = 5) %>% arrange(species, n)
     ## 10 Dog     Lucy          337
     ## # … with 43 more rows
 
-\`5. What names are more common for cats than dogs? The ones above the
+\`5. What names are more common for cats than dogs?The ones above the
 line or the ones below the line?
 
 Answer here Oliver and Lily (4 points)
