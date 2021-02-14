@@ -53,8 +53,8 @@ seattlepets %>%
 count(animal_name, sort = TRUE)
 ```
 Write your narrative here
-NA     483  
-Lucy   439
+NA      483  
+Lucy    439
 charlie 387
 Luna    355
 
