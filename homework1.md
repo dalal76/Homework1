@@ -33,7 +33,7 @@ Write your narrative here
 
 Write your narrative below
 
-variables : 7 \`3. Copy the code provided in the homework documentation
+variables :7 \`3. Copy the code provided in the homework documentation
 and paste it here.
 
 (4 points)
